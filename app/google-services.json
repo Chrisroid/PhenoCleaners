@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460963027324",
+    "firebase_url": "https://phenocleans.firebaseio.com",
+    "project_id": "phenocleans",
+    "storage_bucket": "phenocleans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460963027324:android:452965ea3185a348566cf9",
+        "android_client_info": {
+          "package_name": "com.phenocleaners.phenocleans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460963027324-c8rbkepjb14n7onnd5cv4h2g2lgi31jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phenocleaners.phenocleans",
+            "certificate_hash": "132eb3ee1351bbc94942a8739d0e222fd82061b4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Hzfcogf2BC7zt06FmuJ8xSzMWXo8w3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
